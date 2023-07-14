@@ -10,20 +10,30 @@
 
 <p align="center">
 <a href="https://twitter.com/prawirapeacee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prawirapeacee" height="30" width="40" /></a>
+<a href="https://www.threads.net/@prawira.g_" target="blank"><img align="center" src="https://seeklogo.com/images/T/threads-by-instagram-logo-20008C5295-seeklogo.com.png" alt="prawira.g_" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/prawira-genestonlia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prawira-genestonlia" height="30" width="40" /></a>
 <a href="https://instagram.com/prawira.g_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prawira.g_" height="30" width="40" /></a>
 <a href="https://medium.com/@prawira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@prawira" height="30" width="40" /></a>
 </p>
 
 <h2>About Me</h2>
-Text Here
+A Senior Software Engineer with extensive experience in application design and development spanning four years. My passion for coding is driven by the desire to improve people's lives, and I'm always eager to explore new opportunities that enable me to do so. Apart from my development work, I have a passion for learning and sharing my technical knowledge, with my Medium posts recently hitting the 60k views milestone.
+<br>
+Whether you're looking for collaboration opportunities or simply want to say hello, feel free to contact me.
 
-<h2>Features</h2>
-Text Here
+<h2>Specialisation and Domain</h2>
+<ul>
+ <li>TypeScript Application (Cross-Platform Mobile Application, Front-End and Back-End)</li>
+ <li>Amanzon Web Services</li>
+ <li>Identity Domain (OAUTH2.0 and OIDC Provider and IAM Engineering)</li>
+</ul>
+
+<!-- <h2>Features</h2>
+Text Here -->
 
 <!-- <div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=PrawiraGenestonlia&repo=create-express-typescript-application&theme=github_dark" alt="prawiragenestonlia" /></p> -->
-</div><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=PrawiraGenestonlia&repo=create-express-typescript-application&theme=github_dark" alt="prawiragenestonlia" /></p> 
+</div> -->
 
 <h2>GitHub</h2>
 <div align="center" >
