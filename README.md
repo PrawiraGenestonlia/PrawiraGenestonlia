@@ -17,15 +17,15 @@
 </p>
 
 <h2>About Me</h2>
-A Senior Software Engineer with extensive experience in application design and development spanning four years. My passion for coding is driven by the desire to improve people's lives, and I'm always eager to explore new opportunities that enable me to do so. Apart from my development work, I have a passion for learning and sharing my technical knowledge, with my Medium posts recently hitting the 60k views milestone.
+I am a Senior Software Engineer with extensive experience in application design and development, spanning four years. My passion for coding is driven by a desire to enhance people's lives, and I am always eager to explore new opportunities that enable me to do so. Apart from my development work, I am enthusiastic about learning and sharing my technical knowledge. My Medium posts have recently achieved a milestone of 80k views. 
 <br>
-Whether you're looking for collaboration opportunities or simply want to say hello, feel free to contact me.
+I am currently builing tech for public good. Whether you are seeking collaboration opportunities or simply want to say hello, please feel free to contact me.
 
-<h2>Specialisation and Domain</h2>
+<h2>Specialization and Domain</h2>
 <ul>
- <li>TypeScript Application (Cross-Platform Mobile Application, Front-End and Back-End)</li>
- <li>Amanzon Web Services</li>
- <li>Identity Domain (OAUTH2.0 and OIDC Provider and IAM Engineering)</li>
+ <li>TypeScript Application Development: I specialize in developing Cross-Platform Mobile Applications, Front-End, and Back-End solutions using TypeScript.</li>
+ <li>Amazon Web Services (AWS): I have a strong command of Amazon Web Services (AWS), utilizing its capabilities to create scalable and dependable cloud-based solutions.</li>
+ <li>Identity Domain: My specialization is in Identity and Access Management (IAM) engineering, with proficiency in OAuth 2.0 and OIDC Provider implementations. I am dedicated to ensuring secure and seamless user authentication.</li>
 </ul>
 
 <!-- <h2>Features</h2>
