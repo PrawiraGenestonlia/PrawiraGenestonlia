@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Wira </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Monospaces&weight=500&size=18&duration=3000&pause=500&color=2477F7&center=true&vCenter=true&multiline=true&width=435&height=36&lines=Senior+Software+Engineer;TypeScript+Specialist;Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Monospaces&weight=500&size=18&duration=3000&pause=500&color=2477F7&center=true&vCenter=true&multiline=true&width=435&height=36&lines=Software+Engineering+Manager;TypeScript+Specialist;Problem+Solver" alt="Typing SVG" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -9,23 +9,25 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=prawiragenestonlia&label=Profile%20views&color=0e75b6&style=flat" alt="prawiragenestonlia" /> </p> -->
 
 <p align="center">
-<a href="https://twitter.com/prawirapeacee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prawirapeacee" height="30" width="40" /></a>
-<a href="https://www.threads.net/@prawira.g_" target="blank"><img align="center" src="https://seeklogo.com/images/T/threads-by-instagram-logo-20008C5295-seeklogo.com.png" alt="prawira.g_" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/prawira-genestonlia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prawira-genestonlia" height="30" width="40" /></a>
 <a href="https://instagram.com/prawira.g_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prawira.g_" height="30" width="40" /></a>
 <a href="https://medium.com/@prawira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@prawira" height="30" width="40" /></a>
 </p>
 
 <h2>About Me</h2>
-I am a Senior Software Engineer with extensive experience in application design and development, spanning four years. My passion for coding is driven by a desire to enhance people's lives, and I am always eager to explore new opportunities that enable me to do so. Apart from my development work, I am enthusiastic about learning and sharing my technical knowledge. My Medium posts have recently achieved a milestone of 80k views. 
-<br>
-I am currently builing tech for public good. Whether you are seeking collaboration opportunities or simply want to say hello, please feel free to contact me.
+I am a Software Engineering Manager with a strong focus on driving high-impact objectives. With engineering as an enabler, I have led teams across various domains, including national authentication systems, engineering tooling, and corporate internal platforms.
 
-<h2>Specialization and Domain</h2>
+As a hands-on full-stack engineer, I believe in leading by example—balancing cross-functional leadership, people management, and product delivery. My approach is centered on taking the highest-leverage actions and solving complex problems effectively. Passionate about coding, I am driven by the goal of enhancing people’s lives through technology.
+
+Currently, I am building technology for public good. If you're interested in collaboration or simply want to connect, feel free to reach out!
+
+<h2>Specialization and Expertise</h2>
 <ul>
- <li>TypeScript Application Development: I specialize in developing Cross-Platform Mobile Applications, Front-End, and Back-End solutions using TypeScript.</li>
- <li>Amazon Web Services (AWS): I have a strong command of Amazon Web Services (AWS), utilizing its capabilities to create scalable and dependable cloud-based solutions.</li>
- <li>Identity Domain: My specialization is in Identity and Access Management (IAM) engineering, with proficiency in OAuth 2.0 and OIDC Provider implementations. I am dedicated to ensuring secure and seamless user authentication.</li>
+ <li>TypeScript Application Development – Experienced in building cross-platform mobile applications, as well as front-end and back-end solutions using TypeScript.
+</li>
+ <li>Amazon Web Services (AWS) – Proficient in leveraging AWS services to develop scalable, reliable cloud-based solutions.
+</li>
+ <li>Identity & Access Management (IAM) – Specialized in Identity and Access Management, with expertise in OAuth 2.0 and OpenID Connect (OIDC) provider implementations, ensuring secure and seamless authentication.</li>
 </ul>
 
 <!-- <h2>Features</h2>
